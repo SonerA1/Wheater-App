@@ -1,7 +1,7 @@
 # Wheater-App
 Weather App For Android from Kotlin
 
-### CleanMovieApp 
+### WheaterApp
 I have developed a Weather application using open source api.
 
 
